@@ -8,4 +8,4 @@ Latest side projects:
 - **Document intelligence** — semantic drift detection for legal contracts (LegalDrift)
 - **Knowledge graphs** — ontology-first AI with GraphRAG (Ontology-StarterKit)
 
-Berlin 🇩🇪 | Open to roles in AI Engineering, Applied AI, and Agentic Systems
+Berlin 🇩🇪 
